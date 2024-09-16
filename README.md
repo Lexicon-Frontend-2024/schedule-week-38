@@ -29,7 +29,7 @@
 * [Grupprojekt](https://github.com/Lexicon-Frontend-2024/grupprojekt-react/)
   
 ## Lektionsrepon:
-* **Måndag** - FM: Genomgång av Trello. Få [projektet](https://github.com/Lexicon-Frontend-2024/grupprojekt-react/) och gruppindelning. EM: Handledning. (Maja och Niklas)
+* **Måndag** - FM: Uppstart och handledning. EM: Handledning. 0.5h APL-sök. (Maja)
 * **Tisdag** - FM: Uppstart och handledning. EM: handledning. 0.5h APL-sök. (Maja)
 * **Onsdag** - FM: Uppstart och handledning. EM: handledning. 0.5h APL-sök. (FM: Annika eller Jesper, EM: Maja)
 * **Torsdag** - FM: Uppstart och handledning. EM: handledning. 0.5h APL-sök. (FM: Annika eller Jesper, EM: Maja)
